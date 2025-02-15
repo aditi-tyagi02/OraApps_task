@@ -7,6 +7,7 @@ A simple event discovery web page where users can browse and view event details.
 - List of events with title, date, location, and description.
 - Click an event to see its details.
 - Responsive design using Tailwind CSS.
+- Implemented dark mode to enhance the UI 
 
 ## Setup Instructions
 1. Clone the repository:
